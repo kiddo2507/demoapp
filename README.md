@@ -1,5 +1,3 @@
-# increatech_business_solution
-
 A new Flutter project.
 
 ## Getting Started
@@ -14,10 +12,6 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter, view our
 [online documentation](https://flutter.dev/docs), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
-
-
-
-Thank you for your interest in our internship opening. As a next step, we are expecting you to complete a short assignment.
 
 1. Create a flutter app where users would be able to a see a welcome screen.
 2. On clicking next the user should be shown a Sign in screen.
